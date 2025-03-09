@@ -1,15 +1,36 @@
-# 💫 About Me:
-My name is Harsh Goswami, and I am thrilled to be attending Drury University and studying software engineering. I have always been captivated by the power of technology and its potential to solve complex problems.<br><br>As a student, I am eager to expand my knowledge and skills in programming languages like Java, Python, and C++. I am excited to delve deeper into software design, development, and testing. Outside of class, I am also looking forward to working on personal programming projects to improve my skills and explore emerging technologies. Continual learning and keeping up-to-date with the latest technologies is crucial to success in the software engineering field, and I embrace the challenge.<br><br>Looking ahead, I am eager to gain practical experience in software engineering through internships and co-op opportunities. I am confident that my passion for technology and adept technical skills make me a valuable asset to any team.<br><br>Thank you for taking the time to learn more about me. I am enthusiastic about embarking on my studies at Drury University and contributing to the field of software engineering in the future.
+# Hi, I'm Harsh Goswami! 👨‍💻
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Glitch3086&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Glitch3086&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Glitch3086&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+Welcome to my GitHub space—a window into my journey as a Software Engineering student at **Drury University**. I enjoy pushing boundaries with code and exploring innovative projects that blend creativity with technology.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Glitch3086&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+---
 
-### ✍️ Random Dev Quote
+## 🛠️ My Projects & Journey
+
+### 🌤️ Weather Website
+- **What:** A dynamic full-stack weather app fetching live data via an API and using MongoDB.
+- **Why:** To challenge myself with integrating front-end, back-end, and database technologies.
+
+### 💻 CSCI261 Projects
+- **What:** A curated repo of coding challenges and projects from my coursework.
+- **Why:** These projects reflect my growth as a developer, tackling diverse problems in Java, Python, and C++.
+
+### ❤️ Do You Love Me?
+- **What:** A quirky interactive website where clicking "No" makes the option disappear!
+- **Why:** To combine fun with functionality, demonstrating creative problem-solving with JavaScript and web design.
+
+---
+
+## 🔧 Tech I Use
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+## 🎲 Random Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
